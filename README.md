@@ -1,11 +1,12 @@
-### Olá Pessoal, eu sou a Bianca 👋
+### Olá pessoal, eu sou a Bianca 👋
 
-- 🔭 Trabalho na área de front-end
-- 🌱 Estudando React e React Native
+- 👩‍💻 Apaixonada por desenvolvimento front-end
+- 🌱 Estudando ReactJs e React Native
+- 👾 Adoro jogar quando tenho tempo livre
+- 👩‍🎓 Graduada em Sistemas de Informação
 
 <div align="center">
   <a href="https://github.com/BiancaMarques97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMarques97&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMarques97&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
